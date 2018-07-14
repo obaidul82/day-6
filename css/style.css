@@ -1,0 +1,356 @@
+/*header start*/
+header{
+	overflow: hidden;
+	background-color: #121B2A;
+}
+.wrapper{
+	margin: 0 auto;
+	width: 90%;
+}
+.logo {
+	width: 20%;
+	float: left;
+	padding-left: 0px;
+}
+.logo img{
+	width: 110px;
+	height: 60px;
+	margin-left: 10px;
+	padding: 10px;
+	float: left;
+}
+.nav {
+	width: 70%;
+	float: right;
+}
+.nav ul {
+	list-style: none;
+}
+.nav ul li {
+	float: left;
+}
+.nav ul li a {
+	text-decoration: none;
+	padding: 10px 14px;
+	display: block;
+	margin-top: 20px;
+	color: #A6AAAF;
+	transition: 1s;
+	font-size: 20px;
+}
+.nav ul li:last-child a{
+	padding-right: 0px;
+}
+.nav ul li a:hover {
+	color: #09466E;
+}
+/*header start*/
+/*banner start*/
+.banner {
+	background-image: url("../images/bannerp.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	overflow: hidden;
+
+}
+.wrapper{
+	width: 90%;
+	overflow: hidden;
+}
+
+.banner_content {
+	width: 40%;
+	font-size: 32px;
+	color: white;
+	overflow: hidden;
+}
+.banner_para{
+	color: #0075B9;
+	font-size: 30px;
+}
+.banner_content h1{
+	margin-bottom: 0px;
+	padding-top: 60px;
+}
+.banner_content h2{
+	margin-bottom: 5px;
+	margin-top: 0px;
+}
+.banner_content p{
+	font-size: 20px;
+	margin: 0 auto;
+	padding-bottom: 40px;
+}
+/*banner end*/
+/*service strat*/
+.service {
+	background-color: #121B2C;
+	overflow: hidden;
+}
+
+.wrapper {
+}
+
+.service_top {
+	overflow: hidden;
+	margin-top: 60px;
+	margin-left: 10px;
+}
+
+.single_service1 {
+	width: 28%;
+	border-right: 1px solid grey;
+	float: left;
+	overflow: hidden;
+	padding-right: 16px;
+}
+
+.title_1 {
+	overflow: hidden;
+}
+
+.icon_1 {
+	width: 20%;
+	float: left;
+}
+.title_content1 {
+	width: 70%;
+	float: right;
+}
+.title_content1 h2{
+	margin-bottom: 5px;
+	margin-top: 0px;
+}
+
+.para1 {
+	color: white;
+	float: center;
+}
+
+.para2 {
+	color: #0078BE;
+}
+.title_content1 h1{
+	margin: 0 auto;
+}
+
+.service_details1 {
+	color: white;
+	padding: 5px;
+}
+
+.single_service2 {
+	width: 28%;
+	float: left;
+	border-right: 1px solid grey;
+	padding: 5px;
+	margin-left: 42px;
+	padding-right: 16px;
+}
+
+.title_2 {
+	overflow: hidden;
+}
+
+.icon_2 {
+	width: 20%;
+	float: left;
+}
+
+.title_content2 {
+	width: 70%;
+	float: right;
+}
+.title_content2 h1{
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+.title_content2 h2{
+	margin: 0 auto;
+}
+.para3 {
+	color: white;
+}
+
+.para4 {
+	color:  #0178BF;
+}
+
+.service_details2 {
+	color: white;
+	padding-bottom: 10px;
+}
+
+.single_service3 {
+	width: 28%;
+	float: left;
+	overflow: hidden;
+	padding: 5px;
+	margin-left: 42px;
+}
+
+.title_3 {
+	overflow: hidden;
+}
+
+.icon_3 {
+	width: 20%;
+	float: left;
+}
+
+.title_content3 {
+	width: 70%;
+	float: right;
+}
+
+.para5 {
+	color: white;
+}
+.title_content3 h1{
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+.para6 {
+	color: #0178BF;
+}
+.title_content3 h2{
+	margin: 0 auto;
+}
+
+.service_details3 {
+	color: white;
+}
+.service_2 {
+	background-color: #040811;
+}
+
+.wrapper {
+}
+
+.service_bottom {
+	
+}
+
+.bottom_service1 {
+	width: 28%;
+	float: left;
+	padding-left: 10px;
+    padding-bottom: 20px;
+
+}
+
+.bottom_title1 {
+	color: white;
+}
+
+.bottom_text {
+	color: #0076B5;
+}
+address {
+	color: white;
+}
+.bottom_service2 {
+	width: 28%;
+	float: left;
+	padding: 0 37px;
+}
+
+.title_5 {
+	background-color: #0C1019;
+	color: white;
+	padding: 0 5px;
+}
+
+.bottom_text2 {
+	color: #0076B5;
+
+}
+
+.bottom_content2 {
+	color: white;
+}
+
+.bottom_details2 {
+	color: white;
+}
+.bottom_service3 {
+	width: 28%;
+	float: left;
+	padding-left: 20px;
+}
+
+.Mobile_icon {
+	width: 50%;
+	float: left;
+}
+
+.apps_title {
+	width: 45%;
+	float: left;
+}
+
+.apps_title1 {
+	color: white;
+}
+
+.apps_title2 {
+	color: #0076B5;
+}
+button img {
+	border-radius: 5px;
+}
+.footer {
+	background-color: #121B2C;
+}
+
+.wrapper {
+}
+
+.footer_nav {
+	width: 70%;
+	float: left;
+	overflow: hidden;
+}
+.footer_nav ul{
+	list-style: none;
+	float: left;
+	padding-left: 0px; 
+}
+.footer_nav ul li{
+	float: left;
+}
+.footer_nav ul li a{
+	text-decoration: none;
+	padding: 10px 10px;
+	display: block;
+	margin-top: 15px;
+	color: #A6AAAF;
+	transition: 1s;
+	font-size: 15px;
+}
+.footer_nav ul li a:hover {
+	color: #09466E;
+}
+address{
+	float: bottom;
+	width: 70%;
+	padding-left: 5px;
+}
+.footer_icon {
+	width: 25%;
+
+	float: right;
+}
+
+.footer_icon1 {
+	width: 40%;
+	float: left;
+	padding-top: 30px;
+}
+
+.footer_icon2 {
+	width: 40%;
+	float: left;
+	padding-top: 30px;
+}
